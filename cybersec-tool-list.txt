@@ -1,0 +1,4 @@
+fuff
+privilege-escalation-awesome-scripts-suite
+vmware
+seclist-master by daniel miesller: https://github.com/danielmiessler/SecLists/
